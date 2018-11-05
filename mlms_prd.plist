@@ -11,19 +11,19 @@
           <key>kind</key>
           <string>software-package</string>
           <key>url</key>
-          <string>http://localhost:8080/MLMS_uat.ipa</string>
+          <string>http://127.0.0.1/gillion\apache-tomcat-9.0.0.M9\webapps\ROOT/MLMS_uat.ipa</string>
         </dict>
         <dict>
           <key>kind</key>
           <string>display-image</string>
           <key>url</key>
-          <string>http://localhost:8080/icon.png</string>
+          <string>http://127.0.0.1/gillion\apache-tomcat-9.0.0.M9\webapps\ROOT/icon.png</string>
         </dict>
         <dict>
           <key>kind</key>
           <string>full-size-image</string>
           <key>url</key>
-          <string>http://localhost:8080/icon.jpg</string>
+          <string>http://127.0.0.1/gillion\apache-tomcat-9.0.0.M9\webapps\ROOT/icon.jpg</string>
         </dict>
       </array>
       <key>metadata</key>
